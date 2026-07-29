@@ -60,12 +60,12 @@ Certifique-se de ter o [Node.js](https://nodejs.org) instalado em sua máquina.
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/CaioQuerino/landing-page-pratizen.git
+git clone https://github.com/CaioQuerino/landing-page-pratizen-react.git
 ```
 
 2. Acesse a pasta do projeto:
 ```bash
-cd landing-page-pratizen
+cd landing-page-pratizen-react
 ```
 
 3. Instale as dependências do projeto:
