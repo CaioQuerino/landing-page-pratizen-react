@@ -6,17 +6,17 @@ import Contact from '../components/Contact';
 
 export default function HavePermission() {
   return (
-    <>
+    <div className="bg-light min-vh-100">
       <Header />
-      <main>
+      <main className="container py-5">
         <Mission />
         <Practice />
         <Features />
         <Contact />
-        <footer>
-          <p>&copy; 2025 Pratizen. Todos os direitos reservados.</p>
+        <footer className="text-center py-4 mt-5 border-top">
+          <p className="mb-0 text-secondary">&copy; 2025 Pratizen. Todos os direitos reservados.</p>
         </footer>
       </main>
-    </>
+    </div>
   );
 }
